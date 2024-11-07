@@ -1,8 +1,4 @@
-Based on your resume, here's a suggested GitHub profile README:
-
----
-
-### Hi there! 👋 I'm Junaid Zeb
+# Hi there! 👋 I'm Junaid Zeb
 
 I'm a passionate **Backend Developer** with experience in building robust and scalable systems. I specialize in designing APIs, managing databases, and integrating third-party services to create seamless user experiences. With a strong focus on security, accessibility, and efficiency, I strive to develop solutions that not only work but also enhance performance and user satisfaction.
 
