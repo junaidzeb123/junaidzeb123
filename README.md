@@ -2,9 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Junaid%20Zeb&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GPU%20Optimization%20%7C%20Edge%20Computing&descAlignY=51&descAlign=62" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Building+Production-Grade+AI+Systems;Optimizing+Inference+(Cloud+%26+Edge);bridging+Research+to+Reality;Backend+Engineering+meets+Deep+Learning" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;Optimizing+Inference+(Cloud+%26+Edge);Bridging+Research+to+Reality;Backend+Engineering+meets+Deep+Learning" alt="Typing SVG" />
+</a>
 
   <br/>
 
