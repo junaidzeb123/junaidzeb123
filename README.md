@@ -53,7 +53,7 @@ I am an **AI/ML Engineer** and Computer Science undergrad at **FAST-NUCES**. I s
 - **Tech:** TFLite, NNAPI, Python, Flutter, FastAPI
 - **Impact:** Achieved real-time lane detection (UFLDv2) on mobile via **INT8 quantization** and hybrid cloud/edge architecture.
 
-#### 🧠 **[CUDA Neural Network](https://github.com/junaidzeb123/YOUR-REPO-LINK)**
+#### 🧠 **[CUDA Neural Network](https://github.com/MNIST-Acceleration/MNIST-Accleration)**
 *Low-level GPU Optimization Implementation*
 - **Tech:** C++, CUDA, Matrix Math
 - **Impact:** Wrote custom kernels for forward/backward propagation on MNIST, achieving **40x speedup** over CPU.
